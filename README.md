@@ -38,7 +38,6 @@ Este projeto foi desenvolvido como parte do curso Java, um evento organizado pel
 ## Implantação em produção
 - Back end: Heroku
 - Banco de dados: Postgresql
-- Banco de dados em memória: H2
 
 # Como executar o projeto 🛠️
 
